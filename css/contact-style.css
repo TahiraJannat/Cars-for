@@ -1,0 +1,124 @@
+header{
+	border-bottom: 6px solid #e4e4e4;
+}
+.container{
+	width: 950px;
+	margin: 0 auto;
+}
+
+.logo img{
+	margin-top: 45px;
+	margin-left: 40px;
+	display: block;
+	width: 300px;
+}
+
+.menu-bar{
+	
+	padding-bottom: 15px;
+}
+nav {
+
+	text-align: center;
+}
+
+nav ul {
+
+	list-style: none;
+}
+
+nav ul li {
+
+	display: inline-block;
+
+	margin-top: 69px;
+	margin-left: 54px;
+}
+
+nav ul li a {
+
+	text-decoration: none;
+
+	color: #005e7e;
+
+	font-size: 18px;
+}
+.banner{
+	
+	background: #ee4a3f;
+}
+
+.banner-one img{
+	width: 600px;
+	display: block;
+	margin-top: 40px;
+}
+.banner-one h2{
+	font-size:  35px;
+	color: #ffff;
+	margin-top: 40px;
+}
+.banner-one p{
+	color: #ffff;
+	margin-top: 35px;
+	font-size: 14px;
+	padding-right: 180px;
+	margin-bottom: 30px;
+}
+.banner-two img{
+	width: 280px;
+	margin-top: 75px;
+	margin-bottom: 50px;
+	margin-left: 40%;
+}
+
+.lebel{
+	color: #ffff;
+	margin-left: 15px;
+
+}
+.input-field{
+	padding: 10px 70px;
+	margin-right: 60px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #ff6258;
+	border: 0;
+	margin-left: 15px;
+	
+}
+.lebel-two{
+	margin-left: 15px;
+	color: #ffff;
+}
+
+.btn{
+	background-color: transparent;
+    color: #fff;
+	font-family: 'Dancing Script', cursive;
+	padding: 2px 10px;
+	font-size: 35px;
+	margin-top: 75px;
+	margin-left: -15px;
+	border: 0;
+	
+}
+.footer{
+	width: 100%;
+	float: left;
+}
+.footer h3{
+	text-align: center;
+	margin-top: 75px;
+	margin-bottom: 45px;
+	font-size: 13px;
+	color: #ffffff;
+}
+@media screen only and (min-device-width:500px) {
+  .img {
+    width:150px;
+    height:auto;
+    text-align:center;
+  }
+}
+
